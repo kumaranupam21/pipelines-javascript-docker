@@ -19,3 +19,7 @@ steps:
       repository: 'kumaranupam25/myprivaterepo'
       command: 'buildAndPush'
       Dockerfile: 'app/Dockerfile'
+  
+
+
+
